@@ -1,5 +1,7 @@
 ## 使用须知
 
+**科学上网前，推荐阅读 [《这本书能让你连接互联网》](https://hoodiearon.github.io/fq-book/)，并结合** ***WebSieUseful*** **相信定能有所收获**
+
 ### 待定项
 * 为贴子、博客或1-3个测试型的ss分享站点，可能存在长期未更新，有待观察
 * 正常上网能访问的ss分享站点越来越少了，如果找不到满意的可去待定项看看
@@ -19,25 +21,37 @@
 
 ### 如果遇到打不开的站点请参考这个教程
 
-可解DNS污染，对封IP的站点无效，ss分享站点被封ip的可能性，感觉也倾向性也开始...已经很大了
+可解DNS污染，对封IP的站点无效，ss分享站点被封ip的可能性，感觉也倾向性也开始...已经很大了(已经是了...)
 
- https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
+ https://hoodiearon.github.io/fq-book/#/dns&hosts/dnscrypt
  
 如果斩草除根是不是该这样呢？
 
-https://loremwalker.github.io/fq-book/#/append/get-method
+https://hoodiearon.github.io/fq-book/#/append/get-method
+
 
 ### v2ray
 
+* https://connect.freev2ray.org/
 * https://v2ray.cat/ 
 * https://v2ray.party/
+* https://my.freev2ray.org/
+* https://v2fire.tk/
 * https://get.freev2ray.com/
 
 v2ray的账号分享站点目前较少
 
 ## 请参考fq-book中的教程再访问如下站点
 
+* http://ssr.wangzhan.gq/
+* https://free.ss-ssr.com
+* https://ssrfree.tk/
+* https://lncn.org/
+* https://inssr.pro/free
+* http://cacss.me/
+* https://fanqiangdang.com
 * https://fast.ishadowx.net
+* http://softpen.net 
 * http://52ss.fun/
 * https://free0.gyteng.com/
 * http://shadowsocks.hk/
@@ -55,21 +69,21 @@ v2ray的账号分享站点目前较少
 * https://get.ishadowx.net
 * https://get.freess.today
 * https://tool.ssrshare.com/tool/free_ssr
-* https://doub.io 
 * https://free-ss.site
 * https://global.ishadowx.net
 * http://www.52ssr.net/
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
-* https://www.puffss.com/
 
 
 
 ## 待定项
 
 * https://www.vpn168.net
+* https://www.go2free.xyz/
 * https://biulink.club/
 * https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
+* https://free.ss-ssr.com/
 * http://www.scdark.cn/?p=363
 * https://gdmi.weebly.com/3118523398online.html
 * https://pdf-lib.org/Home/Details/2638
@@ -97,21 +111,24 @@ v2ray的账号分享站点目前较少
 * https://free.yitianjianss.com
 * https://www.puffss.com/
 -->
+
+## v2ray订阅源
+
+* https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
+
 ## ssr订阅源
 * https://www.nutgeek.cn/newsubscribe/
 * https://prom-php.herokuapp.com/cloudfra_ssr.txt
 * http://share-shadowsocks.herokuapp.com/full/subscribe
 * http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
-* https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
+* https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
+* https://github.com/liesauer/Free-SS-SSR
+* https://yzzz.ml/freessr
+* https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 
-## telegram 订阅
-
-https://t.me/freeshadowsock  
-https://t.me/gyjclub  
-https://t.me/joinchat/AAAAAEvnT-th4YKBWoUjFw
 
 ## 分享邮箱
-* toyoooooooooooo@gmail.com (doub.io)
+<s> * toyoooooooooooo@gmail.com (doub.io)</s>
 * ye515430@gmail.com (yitianjianss)
 * ss@rohankdd.com (free-ss.site)
 
@@ -121,6 +138,8 @@ https://www.similarsites.com
 
 ## 已失效
 
+https://doub.io   
+https://www.puffss.com/
 https://freess.cx  
 https://shadowsocksph.space  
 https://free.4kvpn.com  
@@ -135,3 +154,9 @@ http://www.vpn168.tk
 https://5l44.pw/  
 http://www.ssrfx.com  
 http://freeoutline.org/zh
+
+## 付费保留（观察）
+
+可能到时候会用到的付费节点，虽然翻墙一直是蹭网，付费来说，个人用vpn的可能性更大些
+
+https://rixcloud.me/
